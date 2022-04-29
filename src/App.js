@@ -12,8 +12,6 @@ function App() {
       <Main_Post/>
       <Cards />
     </div>
-
-
   );
 }
 

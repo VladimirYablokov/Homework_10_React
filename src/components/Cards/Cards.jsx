@@ -2,7 +2,7 @@ import React from 'react'
 import Card from '../Card/Card'
 import s from './Cards.module.sass'
 
-export default function Cards() {
+export default function Cards({id, title, background}) {
     const card_list = [
         {
             id: 1,
